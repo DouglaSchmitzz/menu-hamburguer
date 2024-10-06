@@ -6,6 +6,10 @@
     font-family: "Afacad Flux", sans-serif;
 }
 
+body {
+background: rgba(113, 115, 138, 0.666);
+}
+
 header {
     background-color: #24252a;
     box-shadow: 0 3px 10px #4646;
