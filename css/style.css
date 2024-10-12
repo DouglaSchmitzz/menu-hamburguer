@@ -7,11 +7,11 @@
 }
 
 body {
-background: rgba(113, 115, 138, 0.666);
+background: #bad1c3fb
 }
 
 header {
-    background-color: #24252a;
+    background-color: #0c0c1e;
     box-shadow: 0 3px 10px #4646;
 }
 
@@ -54,7 +54,7 @@ header {
 
 .login-button button {
     border: none;
-    background-color: #0187a7;
+    background-color: #1b2e3c;
     padding: 10px 15px;
     border-radius: 5px;
 }
